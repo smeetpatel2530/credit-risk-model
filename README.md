@@ -135,10 +135,10 @@ python CreditRiskModel.py
 
 ## 👤 Author
 
-**Smeet Patel**
-M.Tech in Computer Science & Engineering — Delhi Technological University (DTU)
-📧 smeetpatel2530@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/smeetpatel2530) | [GitHub](https://github.com/smeetpatel2530) | [Portfolio](#)
+**Smeet Patel**  
+M.Tech in Computer Science & Engineering — Delhi Technological University (DTU)  
+📧 smeetpatel2530@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/smeet-patel-22b67a193/) | [GitHub](https://github.com/smeetpatel2530) | [Portfolio](https://smeetpatel2530.github.io/CV-Upgraded/)
 
 ***
 
