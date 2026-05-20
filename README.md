@@ -141,5 +141,7 @@ M.Tech in Computer Science & Engineering — Delhi Technological University (DTU
 🔗 [LinkedIn](https://www.linkedin.com/in/smeet-patel-22b67a193/) | [GitHub](https://github.com/smeetpatel2530) | [Portfolio](https://smeetpatel2530.github.io/CV-Upgraded/)
 
 ***
+## 📄 License
 
+This project is open-source and available under the MIT License.
 
